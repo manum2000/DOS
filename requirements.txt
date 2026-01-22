@@ -1,0 +1,5 @@
+when RUN in KALI (LINUX)
+
+sudo apt update
+sudo apt install python3-joblib
+sudo apt install python3-sklearn
